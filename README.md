@@ -1,37 +1,59 @@
-# Java-Learning-Journey
-│
-├── 01-Getting-Started
-├── 02-Introduction-to-Java
-├── 03-Keywords-Variables-Identifiers-and-Datatypes
-├── 04-Operators
-├── 05-Type-Conversion
-├── 06-Control-Structures
-├── 07-Introduction-to-OOP
-├── 08-Methods
-├── 09-Constructors
-├── 10-This-Keyword
-├── 11-Memory-Management
-├── 12-Encapsulation
-├── 13-Abstraction
-├── 14-Access-Modifiers
-├── 15-Class-Diagram
-├── 16-String
-├── 17-Array
-├── 18-Testing
-├── 19-Debugging
-├── 20-Code-Analysis
-├── 21-Static-Keyword
-├── 22-Aggregation
-├── 23-Association
-├── 24-Inheritance
-├── 25-Polymorphism
-├── 26-Object-and-Wrapper-Classes
-├── 27-Final-Keyword
-├── 28-Abstract-Class
-├── 29-Interface
-├── 30-Exception-Handling
-├── 31-Package
-├── 32-Unit-Testing-and-Code-Coverage
-├── 33-Recursion
-├── 34-Regular-Expression
-└── README.md
+# ☕ Java Learning Journey
+
+This repository contains my Java learning journey from basic concepts to object-oriented programming and advanced topics.
+
+## 📚 Topics Covered
+
+### Basics
+- Getting Started
+- Introduction to Java
+- Keywords, Variables, Identifiers and Datatypes
+- Operators
+- Type Conversion
+- Control Structures
+
+### Object-Oriented Programming
+- Introduction to OOP
+- Methods
+- Constructors
+- this Keyword
+- Encapsulation
+- Abstraction
+- Access Modifiers
+- Inheritance
+- Polymorphism
+- Aggregation
+- Association
+- Interface
+- Abstract Class
+
+### Core Java
+- String
+- Array
+- Object and Wrapper Classes
+- Static Keyword
+- Final Keyword
+- Package
+- Exception Handling
+- Memory Management
+
+### Software Development
+- Testing
+- Debugging
+- Code Analysis
+- Unit Testing and Code Coverage
+
+### Advanced Topics
+- Recursion
+- Regular Expressions
+
+## 🚀 Technologies
+- Java
+- Eclipse / IntelliJ IDEA
+- Git & GitHub
+
+## 🎯 Goal
+To strengthen my Java programming skills and build a strong foundation for software development and problem-solving.
+
+---
+⭐ If you find this repository useful, feel free to star it!
